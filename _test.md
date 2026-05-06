@@ -1,5 +1,13 @@
 # Test — Stage 5
 
+## What's different from Stage 4
+
+- Second calendar added: **CEMS-Private** (gym, dinners, appointments) — Claude checks both
+- `skills/evening-planner.md` added — a full daily planning workflow
+- `daily-plan.md` output — what Andrew sees each morning
+- `emails/lisa-research-update.md` and `brain/people/lisa-chen.md` added — a second thread to handle
+- Claude now connects the dots across all data sources in one pass
+
 ## Option A: Show the pre-built output (recommended for live demo)
 
 Just open `daily-plan.md` and walk through it. No Claude session needed.
@@ -21,6 +29,8 @@ Just open `daily-plan.md` and walk through it. No Claude session needed.
 - [ ] Claude writes or overwrites `daily-plan.md`
 - [ ] The plan connects the dots (Elon ↔ Lisa intro, adaptive learning overlap)
 - [ ] Personal events are accounted for (not double-booked over gym/dinner)
+- [ ] Calendar events created for any confirmed meetings
+- [ ] Prep blockers added before meetings
 
 ### Reset after test
 
@@ -35,3 +45,5 @@ Just open `daily-plan.md` and walk through it. No Claude session needed.
 git checkout .
 git clean -fd
 ```
+
+Also delete any Gmail drafts and calendar events created during the test.
