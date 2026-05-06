@@ -16,17 +16,12 @@
 ## Reset after test
 
 ```bash
-# Reset any files Claude may have created or modified
+# 1. Exit Claude
+/exit
+
+# 2. Reset local files
 git checkout .
 git clean -fd
 ```
 
-## Calendar setup
-
-If the CEMS-Business calendar events were deleted or need to be recreated, run this session in the lecture repo:
-
-```
-cd /Users/micha/Documents/github/260506-cems-how-to-claude
-claude
-# Then ask: "Recreate the CEMS-Business calendar events for the week of May 11 based on showcase/stage-2.md"
-```
+No external cleanup needed — this stage only reads the calendar.
