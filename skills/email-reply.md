@@ -8,3 +8,4 @@ When asked to handle, reply to, or draft a response to an email:
    - Directly addresses scheduling requests with concrete times based on actual availability
    - Proposes alternatives if the requested times don't work
    - Keeps the tone professional but warm
+4. Create the draft in Gmail (to the sender's email address, with the original subject line)
