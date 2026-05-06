@@ -6,11 +6,12 @@ Planned by Claude, Wednesday evening.
 
 ## Your day
 
-| Time | Event | Prep |
-|------|-------|------|
-| 10:00–11:00 | Team standup | Nothing special — standard sync |
-| 14:00–15:30 | Coffee with Elon Musky | See below |
-| (rest of afternoon) | Open — deep work or catch-up | |
+| Time | Event | Calendar | Prep |
+|------|-------|----------|------|
+| 07:30–08:30 | Gym | Private | — |
+| 10:00–11:00 | Team standup | Business | Nothing special — standard sync |
+| 14:00–15:30 | Coffee with Elon Musky | Business | See below |
+| 19:30 | Dinner with Sarah | Private | Restaurant booked |
 
 ### Coffee with Elon — prep notes
 
@@ -39,7 +40,7 @@ Planned by Claude, Wednesday evening.
 
 ---
 
-## Tasks
+## Tasks (from Todoist)
 
 - [x] ~~Reply to Elon re: coffee~~ → draft above
 - [ ] **Intro Elon to Lisa Chen** — send a short email connecting them before Thursday
@@ -52,5 +53,6 @@ Planned by Claude, Wednesday evening.
 ## Flags
 
 - You owe Elon the intro to Lisa — do it tomorrow morning so she has time to respond before Thursday
-- Thursday afternoon is open after coffee — good time for deep work or to follow up on anything from the meeting
+- 11:00–14:00 is a 3-hour gap — good deep work window before coffee
+- Dinner at 19:30 means you need to wrap up by 18:30 latest — don't let post-coffee follow-ups bleed into the evening
 - Lisa's pilot data (23% retention lift) is exactly what Elon needs — prime the connection before coffee
