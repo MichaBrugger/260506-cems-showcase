@@ -3,8 +3,10 @@
 When asked to handle, reply to, or draft a response to an email:
 
 1. Read the email thread in `emails/` to understand the conversation and what's being asked
-2. Check the "CEMS-Showcase" Google Calendar for Andrew's availability in the relevant time window
-3. Draft a reply that:
+2. Check `brain/` for notes about the person or topic — look in `brain/people/` and `brain/projects/`
+3. Check the "CEMS-Showcase" Google Calendar for Andrew's availability in the relevant time window
+4. Draft a reply that:
    - Directly addresses scheduling requests with concrete times based on actual availability
    - Proposes alternatives if the requested times don't work
-   - Keeps the tone professional but warm
+   - References relevant context from the brain notes (shared interests, past conversations, open promises)
+   - Keeps the tone professional but warm — like someone who actually knows this person
