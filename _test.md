@@ -19,17 +19,14 @@ Elon
 - [ ] No personal context (Claude doesn't know anything about Elon)
 - [ ] You had to paste the email yourself — Claude didn't read it from anywhere
 
-## The teaching moment
+## What's different from the previous stage
 
-"This is how most people use AI today. Copy, paste, get a generic reply, rewrite half of it. The employee showed up on day one with zero onboarding."
+Nothing — this is the baseline. The employee just walked in. No onboarding, no tools, no memory.
 
 ## Reset after test
 
 ```bash
-# 1. Exit Claude
 /exit
-
-# 2. Reset local files
 git checkout .
 git clean -fd
 ```
