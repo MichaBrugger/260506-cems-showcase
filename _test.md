@@ -7,7 +7,7 @@
 ## What to check
 
 - [ ] Claude reads `emails/elon-coffee-chat.md`
-- [ ] Claude checks the **CEMS-Showcase** calendar (not primary)
+- [ ] Claude checks the **CEMS-Business** calendar (not primary)
 - [ ] Claude sees Tuesday afternoon is blocked (Strategy offsite 13–17)
 - [ ] Claude sees Wednesday afternoon is blocked (Q3 planning 14–16)
 - [ ] Claude suggests **Thursday afternoon** as an alternative
@@ -23,10 +23,10 @@ git clean -fd
 
 ## Calendar setup
 
-If the CEMS-Showcase calendar events were deleted or need to be recreated, run this session in the lecture repo:
+If the CEMS-Business calendar events were deleted or need to be recreated, run this session in the lecture repo:
 
 ```
 cd /Users/micha/Documents/github/260506-cems-how-to-claude
 claude
-# Then ask: "Recreate the CEMS-Showcase calendar events for the week of May 11 based on showcase/stage-2.md"
+# Then ask: "Recreate the CEMS-Business calendar events for the week of May 11 based on showcase/stage-2.md"
 ```
