@@ -2,9 +2,8 @@
 
 ## What's different from Stage 1
 
-- Google Calendar MCP connected — Claude can check real availability
-- Gmail MCP connected — Claude creates draft replies (never sends)
-- `skills/email-reply.md` added — a step-by-step playbook for handling emails
+- Google Calendar and Gmail tools are connected — Claude can check real availability and create a draft
+- `skills/email-reply.md` is added — the first reusable playbook for handling emails
 - `CLAUDE.md` now defines data sources and points to the skill
 
 ## Prompt
