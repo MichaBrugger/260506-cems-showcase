@@ -11,7 +11,7 @@ Planned by Claude, Wednesday evening.
 | 07:30–08:30 | Gym | Private | — |
 | 10:00–11:00 | Team standup | Business | Nothing special — standard sync |
 | 14:00–15:30 | Coffee with Elon Musky | Business | See below |
-| 19:30 | Dinner with Sarah | Private | Restaurant booked |
+| 19:30 | Dinner with Marc | Private | Restaurant booked |
 
 ### Coffee with Elon — prep notes
 
