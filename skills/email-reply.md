@@ -10,3 +10,4 @@ When asked to handle, reply to, or draft a response to an email:
    - Proposes alternatives if the requested times don't work
    - References relevant context from the brain notes (shared interests, past conversations, open promises)
    - Keeps the tone professional but warm — like someone who actually knows this person
+5. Create the draft in Gmail (to the sender's email address, with the original subject line)
