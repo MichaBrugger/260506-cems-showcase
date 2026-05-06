@@ -11,11 +11,13 @@ Built step by step during the CEMS lecture. Each branch adds one building block.
 | `stage-4` | + Email reply skill | Run the whole workflow on command |
 | `stage-5` | + Obsidian brain + planner skill | Plan your entire day using all your data |
 
-## Current stage: 4 — Skill + Todos
+## Current stage: 5 — Evening Planner
 
-The email-reply skill is now a full playbook: read email, check brain, check calendar, check todos, draft reply, **and** create follow-up tasks. Ask:
+The fully onboarded assistant. Every building block is in play: emails, calendar, brain, todos, skills. The evening planner reviews everything and produces a daily plan. Ask:
 
-> Use the email-reply skill on the latest thread from Elon.
+> Run the evening planner for tomorrow.
+
+Or look at `daily-plan.md` for a pre-built example of what you'd wake up to.
 
 ## How to follow along
 
