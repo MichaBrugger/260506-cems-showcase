@@ -22,12 +22,16 @@ Just open `daily-plan.md` and walk through it. No Claude session needed.
 - [ ] The plan connects the dots (Elon ↔ Lisa intro, adaptive learning overlap)
 - [ ] Personal events are accounted for (not double-booked over gym/dinner)
 
-## Reset after test
+### Reset after test
 
 ```bash
-# Reset daily-plan.md and any other changes
+# 1. Before exiting, ask Claude:
+#    "Delete all tasks you just created in the CEMS Showcase Todoist project"
+
+# 2. Exit Claude
+/exit
+
+# 3. Reset local files
 git checkout .
 git clean -fd
-
-# Delete any tasks Claude created in the Todoist "CEMS Showcase" project
 ```
