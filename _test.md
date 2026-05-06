@@ -16,6 +16,12 @@
 ## Reset after test
 
 ```bash
+# 1. Exit Claude
+/exit
+
+# 2. Reset local files
 git checkout .
 git clean -fd
 ```
+
+No external cleanup needed — this stage only reads calendar and local files.
