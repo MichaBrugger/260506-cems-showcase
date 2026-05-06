@@ -10,8 +10,8 @@ Planned by Claude, Tuesday evening.
 |------|-------|----------|------|
 | 07:30–08:30 | Gym | Private | — |
 | 09:00–09:30 | 1:1 with Lisa Chen | Business | See below |
-| 11:00–12:00 | Investor call | Business | Review Q2 deck |
-| 14:00–16:00 | Q3 planning | Business | Bring roadmap priorities |
+| 11:00–12:00 | Investor call | Business | See tasks below |
+| 14:00–16:00 | Q3 planning | Business | See tasks below |
 
 ### 1:1 with Lisa — prep notes
 
@@ -41,18 +41,32 @@ Planned by Claude, Tuesday evening.
 
 ## Tasks (from Todoist)
 
-- [ ] **Reply to Elon re: coffee** → draft above, suggest Thursday
-- [ ] **Intro Elon to Lisa Chen** — send a short email connecting them once coffee is confirmed
-- [ ] Prep talking points on adaptive learning for the Elon coffee chat
-- [ ] Review Lisa's pilot data before 1:1 tomorrow morning
-- [ ] Schedule follow-up with Lisa next week to review pilot results in detail
+### Overdue
+- [ ] **Send intro email: Elon ↔ Lisa Chen** ⚠️ due May 5 — do this today, you promised him at the AI Summit
+
+### Due today (May 7)
+- [ ] **Review Q3 roadmap draft** — Sarah shared the doc last Friday, flag anything missing before this afternoon's Q3 planning
+- [ ] **Prep investor call talking points** — 11am call, focus on user growth metrics and partnership pipeline
+
+### Due later this week
+- [ ] **Book restaurant for dinner with Marc** (due May 8) — Thursday 19:30, he likes Italian
+- [ ] **Schedule 30-min deep dive with Lisa on pilot results** (due May 9) — need to understand methodology before sharing with board
 
 ---
 
 ## Flags
 
+- ⚠️ **Overdue:** The Elon ↔ Lisa intro is a day late — send it before the 1:1 with Lisa this morning so you can mention it
 - Elon wants Tue/Wed afternoon but both are blocked — suggest Thursday (free afternoon)
-- 09:30–11:00 is a 90-min gap — use for deep work or email catch-up
-- 12:00–14:00 is a 2-hour gap — lunch + prep for Q3 planning
+- 09:30–11:00 is a 90-min gap — use for the overdue intro email + investor call prep
+- 12:00–14:00 is a 2-hour gap — lunch + review Q3 roadmap before planning session
 - Lisa's pilot data (23% retention lift) is exactly what Elon needs — prime the connection before coffee
-- You owe Elon the intro to Lisa — don't let it slip past Thursday
+- Book Marc's restaurant before Thursday — the good places fill up
+
+---
+
+## Suggestions
+
+- **Morning block (09:30–11:00):** Send the Elon ↔ Lisa intro email first, then prep investor call talking points
+- **Lunch block (12:00–14:00):** Review Q3 roadmap draft, grab lunch, then head into planning
+- **After Q3 planning (16:00+):** Reply to Elon suggesting Thursday, book restaurant for Marc
