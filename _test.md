@@ -2,43 +2,14 @@
 
 ## Prompt
 
-Draft a reply to this email:
-
-```
-From: elon@musky.com
-To: andrew@anthropic.com
-Subject: Re: Coffee chat next week?
-
----
-
-On May 1, andrew@anthropic.com wrote:
-> Hey Elon, good to hear from you! Saw your keynote at the AI summit —
-> impressive stuff. Would be great to catch up. Let me know what works
-> on your end.
-
-On May 1, elon@musky.com wrote:
-> Hi Andrew,
->
-> I enjoyed your talk at the Claude event last month. I'm working on
-> an ed-tech project and would love to pick your brain over coffee
-> sometime next week. Are you free Tuesday or Wednesday afternoon?
->
-> Best,
-> Elon
-
----
-
-Latest message:
+Draft a reply to this email I just received:
 
 Hey Andrew,
 
-Great — thanks for getting back to me! Tuesday or Wednesday afternoon
-would be ideal for me. Shall we say somewhere in the city center?
-Let me know what time works best and I'll book a spot.
+Great — thanks for getting back to me! Tuesday or Wednesday afternoon would be ideal for me. Shall we say somewhere in the city center? Let me know what time works best and I'll book a spot.
 
 Cheers,
 Elon
-```
 
 ## What to check
 
