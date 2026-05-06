@@ -2,7 +2,7 @@
 
 ## What's different from Stage 2
 
-- `brain/` folder added — personal notes on people and projects (Obsidian vault)
+- `brain/` is added — personal notes on people and projects (Obsidian vault)
 - Skill now checks brain notes before drafting (step 2)
 - Reply should reference context from notes (shared interests, open promises)
 - CLAUDE.md points to `brain/` as a data source
