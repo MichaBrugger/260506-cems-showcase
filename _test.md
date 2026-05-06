@@ -8,20 +8,21 @@
 
 - [ ] Claude finds and reads `emails/elon-coffee-chat.md` on its own (you didn't paste it)
 - [ ] Claude understands Elon wants coffee Tuesday or Wednesday afternoon
-- [ ] Reply is generic — "let me check my schedule" or similar (no real availability info)
+- [ ] Reply matches Elon's casual tone (not corporate fluff)
+- [ ] Reply is still generic — "let me check my schedule" or similar (no real availability info)
 - [ ] No calendar check, no brain lookup — just the email
 
-## The teaching moment
+## What's different from stage 0
 
-The reply is polite but useless — Claude doesn't know Andrew's schedule. That's the gap stage-2 fills.
+- You didn't paste anything — Claude read the email itself
+- Claude has the full thread (all 3 messages), not just the last one
+- It knows the subject, who's writing, and the full context
+- But the reply is still useless — no calendar, no real answer
 
 ## Reset after test
 
 ```bash
-# 1. Exit Claude
 /exit
-
-# 2. Reset local files
 git checkout .
 git clean -fd
 ```
