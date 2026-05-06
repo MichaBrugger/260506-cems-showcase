@@ -9,3 +9,5 @@ When asked to handle, reply to, or draft a response to an email:
    - Proposes alternatives if the requested times don't work
    - Keeps the tone professional but warm
 4. Create the draft in Gmail (to the sender's email address, with the original subject line)
+5. If a meeting was agreed on, create it on the "CEMS-Business" Google Calendar with both participants
+6. Add a 30-minute "Meeting prep" blocker on the "CEMS-Business" calendar right before the meeting
