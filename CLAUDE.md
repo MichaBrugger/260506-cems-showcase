@@ -18,6 +18,11 @@ You are Andrew's personal assistant. Andrew is a tech executive.
 
 When asked to "run test", read `_test.md` and execute the prompt from it. After running, show which checklist items passed.
 
-When asked to "reset test", undo any changes: reset local files with `git checkout . && git clean -fd`, and delete any Gmail drafts, Todoist tasks, or calendar events you created during the test.
+When asked to "reset test", undo all changes from the test run:
+
+1. Reset local files: `git checkout . && git clean -fd`
+2. Delete any Gmail drafts you created (list drafts, delete each one)
+3. Delete any calendar events you created on "CEMS-Business" (list today's/this week's events, delete the ones you made)
+4. Delete any Todoist tasks you created in the "CEMS Showcase" project during this test (do NOT delete the pre-existing seed tasks)
 
 When asked to "next stage", do a reset test first, then run `git checkout stage-5`. Then tell the user to restart Claude with `/exit` and `claude` so the new CLAUDE.md is loaded.
