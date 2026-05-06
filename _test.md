@@ -2,7 +2,7 @@
 
 ## What's different from Stage 3
 
-- Todoist MCP connected — Claude can read and create tasks
+- Todoist is connected — Claude can read and create tasks
 - Skill now checks Todoist for existing tasks (step 4)
 - Skill creates follow-up tasks in Todoist with due dates and Gmail draft link (step 9)
 - CLAUDE.md lists Todoist as a data source
