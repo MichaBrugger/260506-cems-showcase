@@ -10,3 +10,9 @@ You are Andrew's personal assistant. Andrew is a tech executive.
 ## Skills
 
 - `skills/email-reply.md` — follow this when handling email replies
+
+## Testing
+
+When asked to "run test", read `_test.md` and execute the prompt from it. After running, show which checklist items passed.
+
+When asked to "reset test", undo any changes: reset local files with `git checkout . && git clean -fd`, and delete any tasks or events you created during the test.
