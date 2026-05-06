@@ -11,6 +11,12 @@ Built step by step during the CEMS lecture. Each branch adds one building block.
 | `stage-4` | + Email reply skill | Run the whole workflow on command |
 | `stage-5` | + Obsidian brain + planner skill | Plan your entire day using all your data |
 
+## Current stage: 2 — Calendar MCP
+
+Claude can now read emails **and** check your real Google Calendar. Ask:
+
+> Read the latest email thread in the emails folder, check my calendar for next week, and draft a reply suggesting a time that works.
+
 ## How to follow along
 
 Switch between stages with `git checkout stage-X` to see what changes at each step.
