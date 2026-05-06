@@ -14,10 +14,10 @@
 
 ## What's different from stage 0
 
-- You didn't paste anything — Claude read the email itself
+- You didn't paste anything — Claude read the email itself from `emails/`
 - Claude has the full thread (all 3 messages), not just the last one
 - It knows the subject, who's writing, and the full context
-- But the reply is still useless — no calendar, no real answer
+- But the reply is still limited — no calendar, no real answer
 
 ## Reset after test
 
