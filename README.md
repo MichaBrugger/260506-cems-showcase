@@ -11,11 +11,11 @@ Built step by step during the CEMS lecture. Each branch adds one building block.
 | `stage-4` | + Email reply skill | Run the whole workflow on command |
 | `stage-5` | + Obsidian brain + planner skill | Plan your entire day using all your data |
 
-## Current stage: 3 — Obsidian Brain
+## Current stage: 4 — Skill + Todos
 
-Claude can now read emails, check your calendar, **and** look up your personal notes about people and projects. Ask:
+The email-reply skill is now a full playbook: read email, check brain, check calendar, check todos, draft reply, **and** create follow-up tasks. Ask:
 
-> Read the latest email from Elon, check my calendar for next week, and check my notes about him. Draft a reply that suggests a time and references anything relevant from my notes.
+> Use the email-reply skill on the latest thread from Elon.
 
 ## How to follow along
 
