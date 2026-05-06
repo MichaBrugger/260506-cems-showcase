@@ -16,10 +16,13 @@
 ## Reset after test
 
 ```bash
-# Reset local files
+# 1. Before exiting, ask Claude:
+#    "Delete all tasks you just created in the CEMS Showcase Todoist project"
+
+# 2. Exit Claude
+/exit
+
+# 3. Reset local files
 git checkout .
 git clean -fd
-
-# Delete any tasks Claude created in the Todoist "CEMS Showcase" project
-# (do this manually in Todoist or ask Claude to delete them)
 ```
